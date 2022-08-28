@@ -6,6 +6,7 @@ import FeedbackForm from "./components/FeedbackForm";
 import { FeedbackProvider } from "./context/FeedbackContext";
 import AboutPage from "./components/shared/pages/AboutPage";
 import AboutIconLink from "./components/AboutIconLink";
+import Spinner from './components/shared/Spinner';
 
 
 function App() {
